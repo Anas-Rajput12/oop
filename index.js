@@ -58,7 +58,7 @@ const programStart = async (persons) => {
             {
                 type: "confirm",
                 name: "confirmExit",
-                message: chalk.blue `Funther check your Transaction ?`,
+                message: chalk.blue `Further Check list ?`,
                 default: true,
             }
         ]);
